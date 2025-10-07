@@ -1,0 +1,8 @@
+
+python-binance==1.0.16
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+joblib>=1.2
+python-dotenv>=1.0
+psutil>=5.9.0
